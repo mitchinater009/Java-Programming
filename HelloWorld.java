@@ -8,7 +8,7 @@
 
 
 public class HelloWorld
-{  // begin HelloWorld clAss 
+{  // begin HelloWorld class 
 
 	// The start of the main method is below.  Java execution begins in the main method 
 	public static void main(String[] args)
