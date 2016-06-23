@@ -13,9 +13,14 @@ public class averageSpeed {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		double mile = 14 / 1.6; //converting kilometers to miles
+		double kilometers = 14.0;
+		double mile = kilometers / 1.6;
 		
-		System.out.println("The runner's average speed is "+mile+" miles per hour.");
+		double speed = (45.0 * 60.0 + 30.0) / (60.0 * 60.0);
+		double mph = mile / speed;
+		
+		
+		System.out.println("The runner's average speed is "+mph+" miles per hour.");
 
 	}
 
