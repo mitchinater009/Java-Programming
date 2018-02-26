@@ -15,8 +15,8 @@ public class HelloWorld
 	{  // begin main method 
 
 		//Prints out two lines of string to the console. 
-		System.out.println("Hi, my name is Lisa Hebert.");
-		System.out.println("Welcome, Class!");
+		System.out.println("Hi, my name is Mitchell Andrews.");
+		System.out.println("I am excited to be a part of this class!");
 
 	} // End of the main method 
 
